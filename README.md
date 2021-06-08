@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ThomasRintoul001
+- 👀 I’m interested in Astrophysics. Specifically numerical simulations using FORTAN.
+- 🌱 I’m currently learning how to use Git/GitHub and a whole load of stuff about Supernovae.
+- 📫 How to reach me tar4@st-andrews.ac.uk (please note: I am a student, not an academic)
